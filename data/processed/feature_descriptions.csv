@@ -1,0 +1,28 @@
+feature,description
+T2M_annual_mean,Mean annual temperature at 2m (°C) | NASA POWER
+T2M_MAX_annual_mean,Mean annual maximum temperature (°C) | NASA POWER
+PRECTOTCORR_annual_total,Total annual precipitation (mm) | NASA POWER
+HWDI,Heat Wave Duration Index - max consecutive days above 90th percentile | Derived
+CDD,Consecutive Dry Days - longest dry spell (precip < 1mm) | Derived
+Rx5day,Maximum 5-day cumulative precipitation (mm) | Derived
+R95p,Total precipitation from extreme wet days (>95th pct) | Derived
+TXx,Annual maximum of daily maximum temperature (°C) | NASA POWER
+TNn,Annual minimum of daily minimum temperature (°C) | NASA POWER
+DTR_mean,Mean diurnal temperature range (°C) | Derived
+WSDI,Warm Spell Duration Index | Derived
+CESI,Climate Extreme Severity Index - novel composite metric | This study
+gdp_per_capita_usd,GDP per capita (current US$) | World Bank WDI
+population_total,Total population | World Bank WDI
+population_density,Population density (people/km²) | World Bank WDI
+urban_population_pct,Urban population (% of total) | World Bank WDI
+employment_agriculture_pct,Employment in agriculture (% of total) | World Bank WDI
+poverty_headcount_190,Poverty headcount ratio at $1.90/day (%) | World Bank WDI
+new_displacement_disasters,New displacements from disasters | IDMC/World Bank
+displacement_rate_per_100k,"Displacement rate per 100,000 population | Derived"
+log_displacement,Log-transformed displacement (for modeling) | Derived
+conflict_events,Number of conflict events | UCDP
+conflict_fatalities,Total conflict fatalities | UCDP
+conflict_intensity,Composite conflict intensity index | Derived
+climate_economic_stress,CESI × (1 - GDP_norm) interaction | This study
+climate_agriculture_risk,CESI × agricultural_employment interaction | This study
+compound_conflict_climate,Conflict intensity × CESI interaction | This study

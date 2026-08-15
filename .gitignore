@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# IDE & OS
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+~$*
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+
+# Raw Data files (Large files, re-downloadable via scripts/)
+data/raw/*.csv
+data/raw/*.xlsx
+data/raw/*.zip
+data/external/
+
+# Model checkpoints (Heavy binary files)
+models/checkpoints/
+models/saved_models/
+*.h5
+*.keras
+*.pkl
+*.joblib
+
+# Unpublished Manuscript Drafts & Internal Scripts (Private)
+paper/*.docx
+paper/*.html
+paper/*.md
+paper/*backup*
+scripts/
+analysis/05_visualization_generator.py
+*.bak
+*.tmp
+
+# Results placeholders (Keep directory structure)
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/external/.gitkeep
+!models/checkpoints/.gitkeep
+!results/figures/.gitkeep
+!results/metrics/.gitkeep

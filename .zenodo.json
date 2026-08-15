@@ -1,0 +1,28 @@
+{
+  "title": "Geo-Simulating Climate Extreme-Induced Human Migration Patterns using Agent-Based Modeling and Machine Learning",
+  "description": "Replication codebase and simulation pipeline coupling deep learning (BiLSTM-Attention), ensemble machine learning (LightGBM, XGBoost, CatBoost + SHAP), and Mesa-Geo agent-based modeling to simulate climate-induced displacement across South and Southeast Asia (2008–2023).",
+  "creators": [
+    {
+      "name": "Ali, Faizan",
+      "affiliation": "Institute of Environmental Studies, University of Karachi, Karachi, Pakistan"
+    },
+    {
+      "name": "Khan, Tooba Asim",
+      "affiliation": "Institute of Environmental Studies, University of Karachi, Karachi, Pakistan"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "climate displacement",
+    "disaster risk reduction",
+    "agent-based modeling",
+    "deep learning",
+    "machine learning",
+    "compound climate extremes",
+    "explainable AI",
+    "TreeSHAP",
+    "Mesa"
+  ],
+  "upload_type": "software",
+  "access_right": "open"
+}

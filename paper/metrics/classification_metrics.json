@@ -1,0 +1,22 @@
+{
+  "XGBoost": {
+    "Accuracy": 0.7368421052631579,
+    "F1_weighted": 0.7457301341589266
+  },
+  "Random Forest": {
+    "Accuracy": 0.6578947368421053,
+    "F1_weighted": 0.6674314462627156
+  },
+  "LightGBM": {
+    "Accuracy": 0.7105263157894737,
+    "F1_weighted": 0.7108359133126935
+  },
+  "CatBoost": {
+    "Accuracy": 0.7631578947368421,
+    "F1_weighted": 0.7604599734630694
+  },
+  "Stacking Ensemble": {
+    "Accuracy": 0.7105263157894737,
+    "F1_weighted": 0.7068790849673202
+  }
+}

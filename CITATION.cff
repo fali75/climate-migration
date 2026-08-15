@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, datasets, or simulation framework in your research, please cite it as below."
+authors:
+  - family-names: "Ali"
+    given-names: "Faizan"
+    affiliation: "Institute of Environmental Studies, University of Karachi, Karachi, Pakistan"
+    email: "faizan.ali.71994@gmail.com"
+  - family-names: "Khan"
+    given-names: "Tooba Asim"
+    affiliation: "Institute of Environmental Studies, University of Karachi, Karachi, Pakistan"
+title: "Geo-Simulating Climate Extreme-Induced Human Migration Patterns using Agent-Based Modeling and Machine Learning"
+version: 1.0.0
+date-released: 2026-08-16
+url: "https://github.com/fali75/climate-migration"
+license: MIT
+keywords:
+  - "climate displacement"
+  - "disaster risk reduction"
+  - "agent-based modeling"
+  - "deep learning"
+  - "machine learning"
+  - "compound climate extremes"
+  - "explainable AI"
+  - "TreeSHAP"
+  - "Mesa"

@@ -1,0 +1,7 @@
+{
+  "loss": 0.12693700194358826,
+  "compile_metrics": 0.02956118807196617,
+  "extreme_heat_prob_loss": 0.09111800044775009,
+  "flood_prob_loss": 4.668160302756519e-11,
+  "drought_prob_loss": 4.67304597795426e-11
+}

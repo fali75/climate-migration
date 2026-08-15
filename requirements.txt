@@ -1,0 +1,58 @@
+# =============================================================================
+# Climate Migration Research Project - Dependencies
+# "Geo-Simulating Climate Extreme-Induced Human Migration Patterns
+#  using Agent-Based Modeling and Machine Learning"
+# =============================================================================
+
+# Core Data Science
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.11.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+lightgbm>=4.0.0
+catboost>=1.2.0
+optuna>=3.4.0
+
+# Deep Learning
+tensorflow>=2.14.0
+keras>=2.14.0
+
+# Agent-Based Modeling
+mesa>=2.1.0
+
+# Geospatial
+geopandas>=0.14.0
+shapely>=2.0.0
+folium>=0.15.0
+pyproj>=3.6.0
+
+# Visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+plotly>=5.18.0
+kaleido>=0.2.1
+
+# Explainability
+shap>=0.43.0
+lime>=0.2.0
+
+# Statistical Analysis
+statsmodels>=0.14.0
+
+# Data Acquisition
+requests>=2.31.0
+wbdata>=1.0.0
+
+# Utilities
+tqdm>=4.66.0
+joblib>=1.3.0
+python-dateutil>=2.8.0
+openpyxl>=3.1.0
+
+# Google Colab compatibility
+# (these are pre-installed in Colab, listed for local reference)
+# google-colab
+# google-auth
