@@ -43,8 +43,11 @@ paper/*.docx
 paper/*.html
 paper/*.md
 paper/*backup*
+paper/scratch*
 scripts/
 analysis/05_visualization_generator.py
+Submitted/
+*.docx
 *.bak
 *.tmp
 
